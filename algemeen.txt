@@ -1,8 +1,16 @@
 Dit is document op de master branch: algemeen
 
 
+
+
 User 1 wijzigt voor de PULL
 
 User 2: edit doc
 
+
+
+User 2 : een nieuwe lijn
+
 User 1: Nieuwe wijziging!!!
+
+
