@@ -14,4 +14,10 @@ User 2 : een nieuwe lijn
 User 1: Nieuwe wijziging!!!
 
 
+
+!! User 1: Dit is gemaakt in branch 1
+
+
 !! User2: dit is de branch van user 2
+
+
