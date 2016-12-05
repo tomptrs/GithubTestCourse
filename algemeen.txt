@@ -1,3 +1,7 @@
 Dit is document op de master branch: algemeen
 
+
 User 1 wijzigt voor de PULL
+
+User 2: edit doc
+
